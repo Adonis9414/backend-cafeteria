@@ -1,0 +1,14 @@
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\CafeteriaApplication.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\config\JwtAuthFilter.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\config\JwtUtil.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\config\SecurityConfig.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\controller\AuthController.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\controller\CategoryController.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\controller\GlobalExceptionHandler.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\controller\ProductController.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\dto\ProductDto.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\model\Category.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\model\Product.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\repository\CategoryRepository.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\repository\ProductRepository.java
+C:\proyects\springboot\cafeteria\src\main\java\com\adonis\proyect\cafeteria\service\AuthService.java

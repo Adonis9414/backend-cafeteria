@@ -1,0 +1,14 @@
+com\adonis\proyect\cafeteria\controller\AuthController.class
+com\adonis\proyect\cafeteria\config\JwtUtil.class
+com\adonis\proyect\cafeteria\controller\GlobalExceptionHandler.class
+com\adonis\proyect\cafeteria\config\SecurityConfig.class
+com\adonis\proyect\cafeteria\repository\ProductRepository.class
+com\adonis\proyect\cafeteria\dto\ProductDto.class
+com\adonis\proyect\cafeteria\config\JwtAuthFilter.class
+com\adonis\proyect\cafeteria\controller\CategoryController.class
+com\adonis\proyect\cafeteria\repository\CategoryRepository.class
+com\adonis\proyect\cafeteria\model\Category.class
+com\adonis\proyect\cafeteria\CafeteriaApplication.class
+com\adonis\proyect\cafeteria\controller\ProductController.class
+com\adonis\proyect\cafeteria\model\Product.class
+com\adonis\proyect\cafeteria\service\AuthService.class
